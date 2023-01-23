@@ -16,3 +16,7 @@
 - Posicionamiento
 - Trabajando con texto: Familia de textos
 - Media Query
+
+# Enlace en web
+
+- [Portfolio](https://lorem-ipsum-fioreschi.netlify.app/)
